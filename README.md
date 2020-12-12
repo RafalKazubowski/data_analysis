@@ -3,3 +3,6 @@
 In the files *...preparing the dataset ...* I focus on:
 - deduplication
 - cleaning float values
+- converting to bool type
+- converting to datetime type
+
