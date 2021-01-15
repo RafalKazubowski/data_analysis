@@ -5,4 +5,5 @@ In the files *...preparing the dataset ...* I focus on:
 - cleaning float values
 - converting to bool type
 - converting to datetime type
+- text cleaning
 
