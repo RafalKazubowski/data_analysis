@@ -10,3 +10,5 @@ In the files *...preparing the dataset ...* I use the pandas and numpy library t
 Here *car-statistics and visualization* I use the pandas and the seaborn library to present:
 - aggregated data in charts
 - aggregated data in tables
+
+The notebook *cars - learning curve* answers the question: *How big data set do I need to apply ML?*
